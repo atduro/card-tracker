@@ -1,6 +1,6 @@
 {
-  "name": "Wallet Ledger",
-  "short_name": "Wallet Ledger",
+  "name": "Card Tracker",
+  "short_name": "Card Tracker",
   "description": "Credit card points and credits tracker",
   "start_url": "./",
   "display": "standalone",
